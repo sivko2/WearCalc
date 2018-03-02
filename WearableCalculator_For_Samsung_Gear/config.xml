@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://pronic.si/WearableCalculator" version="1.2.2" viewmodes="maximized">
+    <tizen:application id="0XrmjqZMab.WearableCalculator" package="0XrmjqZMab" required_version="2.2"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.320.320"/>
+    <icon src="icon.png"/>
+    <name>Wearable Calculator</name>
+    <tizen:setting hwkey-event="enable"/>
+</widget>
